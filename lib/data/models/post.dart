@@ -1,4 +1,4 @@
-import 'package:brainwavesocialapp/data/data.dart';
+// import 'package:brainwavesocialapp/data/data.dart';
 import 'package:firebase_cloud_firestore/firebase_cloud_firestore.dart';
 import 'package:json_annotation/json_annotation.dart';
 
